@@ -38,4 +38,4 @@ Steps to run the GUI :
 6> Once segmentation process is terminated, click 'Predict' to view the abnormal and normal count of nuclei. 
 7> To terminate or start for a new image, close the application and run the script again. 
 
-Thank You.
+PS - Model Needs to be trained using inceptionv3 and then used for prediction in the algo. (.pb file from tensorflow training) 
